@@ -1,6 +1,6 @@
 -r base.txt
 # sha256: vTovKeGdyd4R1vxHsoYlzfC04W3UyTrhSzdO1ardBLU
-django-debug-toolbar==1.2.1
+django-debug-toolbar==1.11.1
 
 # sha256: 0VnhBPvxcQu6Lk1BD-A3Hcv_gEV9R1KgvUFNiN291HY
 sqlparse==0.1.10
