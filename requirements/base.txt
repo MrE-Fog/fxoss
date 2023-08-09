@@ -38,7 +38,7 @@ psycopg2==2.5.2
 pytz==2014.4
 
 # sha256: NkiAJJLpVf_rKPbauGStcUBZ9UOL9nmNgvnUd8ZmrKM
-requests==2.3.0
+requests==2.31.0
 
 # sha256: D6wgN1YZ6LojInqFuqKBxtmjOkXhEb5h3bqvp4ISd1s
 requests-oauthlib==0.4.1
