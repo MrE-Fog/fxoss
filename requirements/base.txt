@@ -26,7 +26,7 @@ future==0.9.0
 grappelli-safe==0.3.12
 
 # sha256: w4h_fih112ZhB_qL7nYf-VuTkazcx80bX9V6I7X7xJ4
-html5lib==0.999
+html5lib==0.999999999
 
 # sha256: ChGrIxH3op0Aef5Sm96VA_7Jor3VLbg0z4ooSowcUvk
 oauthlib==0.6.3
