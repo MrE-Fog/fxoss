@@ -1,5 +1,5 @@
 # sha256: Ttop2OsMi0qDZmC17_eKDT4NxsGR6ZihQZTy_1ETDaM
-Django==1.6.5
+Django==2.2.28
 
 # sha256: 7BL1jYCKtk_ziLV5dDNUD9qW7J3QPYDqw0Kn39sIlWw
 Mezzanine==3.1.9
