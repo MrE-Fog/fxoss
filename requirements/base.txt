@@ -14,7 +14,7 @@ South==0.8.4
 argparse==1.2.1
 
 # sha256: q2lHUVrCzC-4lOcYy6sb7rNChD_YFtTCondZndvvuns
-bleach==1.4
+bleach==3.3.0
 
 # sha256: bf-9aeQprRrSmhGBrk-Ncq2U5sF4hazWqLNFze1a6tk
 filebrowser-safe==0.3.2
