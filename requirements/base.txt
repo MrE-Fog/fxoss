@@ -5,7 +5,7 @@ Django==2.2.28
 Mezzanine==3.1.9
 
 # sha256: 8QGJO0SvU-TlNM82e35zMlwJczoEfpadmQKe_4jl6GY
-Pillow==2.5.1
+Pillow==9.3.0
 
 # sha256: TpcNIBHQDQ92KHihXFqzY_0tiEb7gIa0fiFOVt2PK3g
 South==0.8.4
