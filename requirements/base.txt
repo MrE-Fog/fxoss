@@ -20,7 +20,7 @@ bleach==1.4
 filebrowser-safe==0.3.2
 
 # sha256: eNg_1xNA0PRDvaD07giNwaonMVTAotkQP7ehkkJWrIU
-future==0.9.0
+future==0.18.3
 
 # sha256: -DRtxTBq9u0dXC9XKYleQ-xt9aR3kHQ0pF-rg0JeMxw
 grappelli-safe==0.3.12
